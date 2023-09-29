@@ -1,7 +1,7 @@
 # VBA-challenge
 
 
-I ran into a number of difficulties with this challenge, but in the end I think that I came out ahead and learned a lot. However, I was still unsuccessful in printing the ticker values for the                   greatest % increase, greatest % decrease, and greatest volumes for the ticker values of the stocks.
+I ran into a number of difficulties with this challenge, but in the end I think that I came out ahead and learned a lot. However, I was still unsuccessful in printing the ticker values for the                   greatest % increase, greatest % decrease, and greatest volumes for the values of the stocks.
 
 Another issue I ran into involved the time it took for the macro to run. I eventually deciding upon using a line of code to disable calculations until the macros finished a sheet - which sped up the             macro immensely.
 
