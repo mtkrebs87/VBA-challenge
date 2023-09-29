@@ -31,3 +31,15 @@ Create a script that loops through all the stocks for one year and outputs the f
 2018
 
 ![image](https://github.com/mtkrebs87/VBA-challenge/assets/144370108/4d96e911-e0c4-4aa1-9da9-006581aeece7)
+
+
+SOURCES CITED
+
+For Percent Format
+https://www.mrexcel.com/board/threads/vba-change-number-of-decimal-places-of-a-percentage.521221/
+Auto Fit cell width
+https://excelchamps.com/vba/autofit/
+Max percent in column
+https://stackoverflow.com/questions/42633273/finding-max-of-a-column-in-vba
+Calculating cells after macro runs
+https://www.computergaga.com/blog/6-ways-to-speed-up-your-excel-macros/
