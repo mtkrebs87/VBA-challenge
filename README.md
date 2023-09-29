@@ -3,7 +3,7 @@
 
 I ran into a number of difficulties with this challenge, but in the end I think that I came out ahead and learned a lot. However, I was still unsuccessful in printing the ticker values for the                   greatest % increase, greatest % decrease, and greatest volumes for the values of the stocks.
 
-Another issue I ran into involved the time it took for the macro to run. I eventually deciding upon using a line of code to disable calculations until the macros finished a sheet - which sped up the             macro immensely.
+Another issue I ran into involved the time it took for the macro to run. I eventually deciding upon using a line of code to disable calculations until the macros finished a sheet - however the macro still took a very long time to run. At the time of writing this I've decided to submit what homework I have completed. I will let the macro run overnight - if it finishes successfully by morning I will upload a link to GitHub.
 
 
 Background
