@@ -6,6 +6,8 @@
 
 Sub Stock_Changes()
 
+Application.Calculation = xlCalculationManual
+
 'Declare ws as a worksheet variable
 Dim ws As Worksheet
 
@@ -150,4 +152,7 @@ For Each ws In Worksheets
                                
     Next
    
+Application.Calculation = xlCalculationAutomatic
+   
 End Sub
+
