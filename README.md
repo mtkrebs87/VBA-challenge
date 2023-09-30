@@ -1,5 +1,8 @@
 # VBA-challenge
 
+*****UPDATE: After returning home from work the following day after I ran the macro (09.29.23) I noticed that it FINALLY finished. I understand that the homework I turned in wasn't finished at the time it was due, but for posterity's sake I thought I would add the ACTUAL screenshots after the macro has run.
+
+*************************************
 
 I ran into a number of difficulties with this challenge, but in the end I think that I came out ahead and learned a lot. However, I was still unsuccessful in printing the ticker values for the                   greatest % increase, greatest % decrease, and greatest volumes for the values of the stocks.
 
@@ -31,6 +34,21 @@ Create a script that loops through all the stocks for one year and outputs the f
 2018
 
 ![image](https://github.com/mtkrebs87/VBA-challenge/assets/144370108/4d96e911-e0c4-4aa1-9da9-006581aeece7)
+
+****UPDATED SLIDES AFTER MACRO FINISHED
+
+2018
+
+![image](https://github.com/mtkrebs87/VBA-challenge/assets/144370108/20a9959b-24c2-4205-9448-22d6321969b4)
+
+2019
+
+![image](https://github.com/mtkrebs87/VBA-challenge/assets/144370108/52f58b42-3b4c-46f3-9ddd-2825e49a42ec)
+
+2020
+
+![image](https://github.com/mtkrebs87/VBA-challenge/assets/144370108/672d8284-ba77-4875-b4ec-d489dc595df7)
+
 
 
 SOURCES CITED
